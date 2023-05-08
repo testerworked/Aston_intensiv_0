@@ -1,0 +1,6 @@
+# Ignore Gradle build files
+.gradle/
+.idea/
+build/
+local.properties
+gradlew.bat
